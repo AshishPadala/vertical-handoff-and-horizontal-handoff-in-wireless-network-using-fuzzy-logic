@@ -1,4 +1,4 @@
-# vertical-handoff-and-horizontal-handoff-in-wireless-network-using-fuzzy-logic
+# Vertical-Handoff-and-Horizontal-Handoff-in-Wireless-Network-using-Fuzzy-Logic
 
 This project presents an integrated framework for managing vertical and horizontal handoffs in wireless networks using a hybrid approach of Fuzzy Logic, Neural Networks, and Genetic Algorithms (GA). Initially, a Fuzzy Logic-based decision-making system evaluates network parameters—signal strength, latency, and bandwidth—using membership functions and fuzzy rules to determine the suitability of network stations for handoff. Genetic Algorithms are employed to optimize membership function parameters and rule weights, ensuring the system dynamically adapts to varying network conditions.
 
